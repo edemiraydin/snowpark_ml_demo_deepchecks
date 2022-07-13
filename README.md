@@ -1,4 +1,4 @@
-# snowpark_ml_demo_deepchecks
+# Linear Regression Demo with Snowpark Python and DeepChecks
 
 Disclaimer: This is experimental. 
 
